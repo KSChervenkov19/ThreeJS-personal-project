@@ -7,6 +7,16 @@
 </p>
 
 <h1 align="center">
+  How to run it?
+</h1>
+
+<p align="center">
+    1. Open the project in VS Code </br>
+    2. Open the terminal and run <code> cd/project </code> </br>
+    3. run the command line <code> npm run dev</code> to open the project in Vite
+</p>
+
+<h1 align="center">
   Controls:
 </h1>
 
