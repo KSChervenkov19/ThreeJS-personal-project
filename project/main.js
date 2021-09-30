@@ -28,6 +28,7 @@ function animate() {
 
 animate();
 
+
 scene.background = new THREE.Color( 0x94a4c3 );
 
 const light = new THREE.AmbientLight( 0xffffff );
